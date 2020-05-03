@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App1</string>
+
+    <string name="nombre_app">
+        SAMPLE  TEXT
+    </string>
+
+    <string name="creditos_equipoDesarrollador">
+
+An app By team
+</string>
+
+</resources>
